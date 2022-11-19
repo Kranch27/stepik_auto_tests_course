@@ -30,3 +30,4 @@ b4 = browser.find_element(By.CSS_SELECTOR, "#solve")
 b4.click()
 
 time.sleep(10)
+
